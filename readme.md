@@ -3,11 +3,6 @@
 
 🔥 Build a  Complete hotel app in Django | Including advanced filters & booking options  - This video is all about hotel apps in Django. Create a fully functional hotel app in Django using the advanced filter option in Django. Best for  Django learners. This kind of OYO clone Oyo is India's largest hotel provider. This project contains all the advanced logic of a hotel reservation project. This Django project also contains all the advanced features of Django like filtering in Django. The foreign key, Many to Many relationships, and many other Django advances features.
 
-![image alt text](https://i.ytimg.com/vi/kG0tw2QBqjE/hqdefault.jpg)
-
-[Video Link](hhttps://www.youtube.com/watch?v=kG0tw2QBqjE "django hotel app")
-
-Video link - https://www.youtube.com/watch?v=kG0tw2QBqjE
 
 
 
